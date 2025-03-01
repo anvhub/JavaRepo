@@ -20,7 +20,7 @@ public class AggreChild
 	}
 	public static void main(String[] args) 
 	{
-		AggregationSample1 obj1=new AggregationSample1("Rajisha",2019876);
+		AggregationSample1 obj1=new AggregationSample1("Arunnath",2019876);
 		AggreChild obj2=new AggreChild("Java Notes",112343,obj1);
 		obj2.display();
 				

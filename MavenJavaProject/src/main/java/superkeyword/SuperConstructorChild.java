@@ -9,7 +9,7 @@ public SuperConstructorChild(String name)
 }
 	public static void main(String[] args) 
 	{
-		SuperConstructorChild obj=new SuperConstructorChild("Rajisha");
+		SuperConstructorChild obj=new SuperConstructorChild("Arunnath");
 	
 
 	}
